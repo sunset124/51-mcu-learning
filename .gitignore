@@ -53,3 +53,17 @@ dkms.conf
 
 # debug information files
 *.dwo
+# Keil 编译产物
+*.hex
+*.obj
+*.lst
+*.m51
+*.i
+*.d
+*.crf
+*.o
+*.dmp
+*.uvguix.*
+*.uvoptx
+Listings/
+Objects/
